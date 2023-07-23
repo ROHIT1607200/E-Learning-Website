@@ -205,27 +205,6 @@ a, button {
 	cursor: pointer;
 	margin: 10px;
 }
-.user {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 10%;
-}
-.user img {
-	width: 60px;
-	border-radius: 50%;
-	border: 2px solid #fff;
-	filter: drop-shadow(0 10px 20px #0004);
-	margin-right: 30px;
-	cursor: pointer;
-}
-.user p {
-	color: #fff;
-	cursor: pointer;
-}
-.user img, .user p {
-	opacity: 1;
-}
 /*Common things in all sections*/
 #about_section, #portfolio_section, #team_section, #services_section, #contactus_section {
 	font-family: 'Open Sans', sans-serif;
